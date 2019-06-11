@@ -1,0 +1,3 @@
+spring cloud项目
+	eureka-server 端口1111  注册中心
+	eureka-client 端口2222 客户端生产者
