@@ -1,3 +1,5 @@
 spring cloud项目
 	eureka-server 端口1111  注册中心
 	eureka-client 端口2222 客户端生产者
+	service-ribbon 端口3333 使用ribbon来实现消费
+	service-feign 端口4444 使用feign来实现消费
