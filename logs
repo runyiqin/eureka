@@ -3,3 +3,5 @@
 		eureka-client 在application.properties配置端口和注册中心信息
 		eureka-server 在application.properties配置端口和身为注册中心的信息
 		service-ribbon 新建项目没有进行任何配置
+
+2019.6.12
