@@ -22,4 +22,5 @@ public class HelloController {
     public String helloError(){
         return "ribbon 返回错误信息";
     }
+
 }
