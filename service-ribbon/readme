@@ -1,2 +1,4 @@
 ribbon在spring cloud中充当客户端负载均衡的服务调用组件
 	ribbon在使用的时候需要配合RestTemplate来使用,在定义restTemplate的时候需要增加loadBlance注解实现请求的负载均衡
+	
+	高版本在使用hystrix 仪表盘的时候需要配置servelt
