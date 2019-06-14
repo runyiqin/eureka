@@ -4,4 +4,4 @@ spring cloud项目
 	service-ribbon 端口3333 使用ribbon来实现消费
 	service-feign 端口4444 使用feign来实现消费
 	api-zuul 端口5555 网关 路由转发  路由过滤filterType
-	config-server 端口6666 分布式配置中心 server
+	config-server 端口7777 分布式配置中心 server
