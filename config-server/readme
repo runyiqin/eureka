@@ -1,0 +1,6 @@
+在使用项目来获得分布式配置信息的时候需要对git中的目录按照获取服务的client命名来进行创建
+	比如说现在有一个config-client的client获取服务，这个项目的bootstrap.properties中配置的
+							spring.application.name=config-client
+							spring.cloud.config.profile=dev
+		那么需要在对应的git项目中新建config-client目录新建config-client-dev.properties的文件,在此文件中进行配置的输入。
+	一定要注意client项目的配置文件一定要为bootstrap.properties
