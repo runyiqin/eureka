@@ -3,4 +3,4 @@ spring cloud项目
 	eureka-client 端口2222 客户端生产者
 	service-ribbon 端口3333 使用ribbon来实现消费
 	service-feign 端口4444 使用feign来实现消费
-	api-zuul 端口5555 网关 路由
+	api-zuul 端口5555 网关 路由转发  路由过滤filterType
