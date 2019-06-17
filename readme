@@ -5,3 +5,4 @@ spring cloud项目
 	service-feign 端口4444 使用feign来实现消费
 	api-zuul 端口5555 网关 路由转发  路由过滤filterType
 	config-server 端口7777 分布式配置中心 server
+	config-client 端口8888 从分布式配置中心获取配置信息的client
