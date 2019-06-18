@@ -1,12 +1,10 @@
 HELP.md
 /target/
-!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
 .classpath
 .factorypath
-.project
 .settings
 .springBeans
 .sts4-cache
@@ -24,7 +22,6 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
-/.mvn/
 /.settings/
 ### VS Code ###
 .vscode/
