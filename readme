@@ -9,3 +9,5 @@ spring cloud项目
 	config-client 端口8888 从分布式配置中心获取配置信息的client
 	在config的基础上引入spring cloud bus使用消息总线来刷新服务
 	项目增加spring cloud sleuth分布式服务跟踪
+	
+	项目还有一些可以丰富的知识点，等待源码分析结束之后再次进行补充
